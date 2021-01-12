@@ -10,4 +10,4 @@ The jupyter notebook [DrChex_model.ipynb](https://github.com/mohsen-saki/DrChex/
 * Before running in Colab:
 1. Download / upload xray image-set (from [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)) into your project folder on gdrive
 2. Modify pathes to the project folder and xray images in jupyter notebook
-* To try prototype app in mybinder click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mohsen-saki/DrChex/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fmohsen-saki%2FDrChex%2Fblob%2Fmain%2FDrChex_app.ipynb)
+* To try prototype app in mybinder click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mohsen-saki/DrChex/HEAD?urlpath=%2Fvoila%2Frender%2FDrChex_app.ipynb)
